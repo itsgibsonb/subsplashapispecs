@@ -1,2 +1,2 @@
 # subsplashapispecs
-openapi
+openapi for Subsplash
