@@ -1,0 +1,2 @@
+# subsplashapispecs
+openapi
